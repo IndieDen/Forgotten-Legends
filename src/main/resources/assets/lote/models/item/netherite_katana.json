@@ -1,0 +1,24 @@
+{
+  "parent":"forge:item/default",
+  "loader":"forge:separate-perspective",
+  "base": {
+    "parent": "lote:item/netherite_katana_handheld",
+    "textures": {
+      "spear": "lote:items/netherite_katana_large"
+    }
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "minecraft:item/generated",
+	  "textures": {
+		"layer0": "lote:items/netherite_katana"
+	  }
+    },
+    "ground": {
+      "parent": "minecraft:item/generated",
+	  "textures": {
+		"layer0": "lote:items/netherite_katana"
+	  }
+    }
+  }
+}

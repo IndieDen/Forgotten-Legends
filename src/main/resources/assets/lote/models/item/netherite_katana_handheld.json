@@ -1,0 +1,6 @@
+{
+  "parent": "lote:item/katana_model",
+  "textures": {
+    "layer0": "lote:items/netherite_katana_large"
+  }
+}
