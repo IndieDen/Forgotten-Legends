@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+[[mods]]
+modId="lote"
+version="1.0.0"
+displayName="Forgotten Legends"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="lote_logo.png"
+#credits="Thanks for this example mod goes to Java"
+authors="Forest Team"
+description='''
+The Forgotten Legends have arrived in Minecraft. New structures, biomes, items and bosses await you on the Way of Ronin.
+'''
+
+[[dependencies.lote]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.1,1.19)"
+    ordering="NONE"
+    side="BOTH"
