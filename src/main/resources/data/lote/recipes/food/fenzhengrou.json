@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " R ",
+        "CPC",
+        " / "
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:cooked_porkchop"
+        },
+        "R": {
+            "item": "lote:riceflour"
+        },
+        "C": {
+            "item": "minecraft:carrot"
+        },
+        "/": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "lote:fenzhengrou",
+        "count": 1
+    }
+}

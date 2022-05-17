@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "AFB",
+        " / "
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:apple"
+        },
+        "F": {
+            "tag": "lote:sake_shrooms"
+        },
+        "B": {
+            "tag": "minecraft:fox_food"
+        },
+        "/": {
+            "item": "minecraft:glass_bottle"
+        }
+    },
+    "result": {
+        "item": "lote:sake",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "lote:raw_yakitori"
+  },
+  "result": "lote:yakitori",
+  "experience": 0.3,
+  "cookingtime": 600
+}

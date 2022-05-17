@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "M",
+        "/"
+    ],
+    "key": {
+        "M": {
+            "tag": "lote:meats"
+        },
+        "/": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result": {
+        "item": "lote:raw_yakitori",
+        "count": 1
+    }
+}

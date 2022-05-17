@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BRB",
+        " / "
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:bamboo"
+        },
+        "R": {
+            "item": "lote:riceflour"
+        },
+        "/": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result": {
+        "item": "lote:dango",
+        "count": 4
+    }
+}

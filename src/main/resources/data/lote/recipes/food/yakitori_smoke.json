@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "lote:raw_yakitori"
+  },
+  "result": "lote:yakitori",
+  "experience": 0.3,
+  "cookingtime": 100
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "///",
+        "RFR",
+        "///"
+    ],
+    "key": {
+        "R": {
+            "item": "lote:riceseeds"
+        },
+        "F": {
+            "tag": "minecraft:fishes"
+        },
+        "/": {
+            "item": "minecraft:dried_kelp"
+        }
+    },
+    "result": {
+        "item": "lote:sushi",
+        "count": 1
+    }
+}

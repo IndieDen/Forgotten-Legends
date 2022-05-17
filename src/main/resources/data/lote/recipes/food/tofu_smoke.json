@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "lote:tofu_cheese"
+  },
+  "result": "lote:tofu",
+  "experience": 0.3,
+  "cookingtime": 100
+}

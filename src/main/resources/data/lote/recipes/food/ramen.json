@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MEM",
+        "WPW",
+        " / "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:wheat"
+        },
+        "E": {
+            "item": "minecraft:egg"
+        },
+        "M": {
+            "tag": "lote:ramen_meat"
+        },
+        "P": {
+            "item": "minecraft:water_bucket"
+        },
+        "/": {
+            "item": "minecraft:bowl"
+        }
+    },
+    "result": {
+        "item": "lote:ramen",
+        "count": 1
+    }
+}
