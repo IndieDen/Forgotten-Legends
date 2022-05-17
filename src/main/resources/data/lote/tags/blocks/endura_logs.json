@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+	"lote:endura_log",
+	"lote:endura_wood",
+	"lote:stripped_endura_log",
+	"lote:stripped_endura_wood"
+	]
+}
