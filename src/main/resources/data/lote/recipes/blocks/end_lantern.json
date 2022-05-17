@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X*X",
+    "X#X",
+    "X*X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:torch"
+    },
+    "*": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "X": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "lote:end_lantern"
+  }
+}

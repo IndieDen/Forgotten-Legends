@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lote:void_planks"
+    }
+  },
+    "result": {
+        "item": "lote:void_slab",
+        "count": 6
+    }
+}

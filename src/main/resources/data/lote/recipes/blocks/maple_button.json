@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lote:maple_planks"
+    }
+  ],
+    "result": {
+        "item": "lote:maple_button",
+        "count": 1
+    }
+}

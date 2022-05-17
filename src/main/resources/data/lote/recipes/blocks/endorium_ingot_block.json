@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "lote:endorium_ingot"
+    }
+  },
+  "result": {
+    "item": "lote:endorium_block",
+    "count": 1
+  }
+}

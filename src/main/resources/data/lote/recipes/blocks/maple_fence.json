@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "lote:maple_planks"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+    "result": {
+        "item": "lote:maple_fence",
+        "count": 3
+    }
+}

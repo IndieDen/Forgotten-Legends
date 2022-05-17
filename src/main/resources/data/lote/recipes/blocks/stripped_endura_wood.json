@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "lote:stripped_endura_log"
+    }
+  },
+    "result": {
+        "item": "lote:stripped_endura_wood",
+        "count": 3
+    }
+}

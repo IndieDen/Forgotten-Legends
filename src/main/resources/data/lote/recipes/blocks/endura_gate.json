@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S#S",
+    "S#S"
+  ],
+  "key": {
+    "#": {
+      "item": "lote:endura_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+    "result": {
+        "item": "lote:endura_gate",
+        "count": 1
+    }
+}

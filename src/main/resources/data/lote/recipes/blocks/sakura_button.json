@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "lote:sakura_planks"
+    }
+  ],
+    "result": {
+        "item": "lote:sakura_button",
+        "count": 1
+    }
+}

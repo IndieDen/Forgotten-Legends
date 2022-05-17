@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lote:endura_planks"
+    }
+  },
+    "result": {
+        "item": "lote:endura_trapdoor",
+        "count": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "lote:stripped_void_wood"
+        }
+    ],
+    "result": {
+        "item": "lote:void_planks",
+        "count": 4
+    }
+}

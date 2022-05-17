@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "lote:endura_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+    "result": {
+        "item": "lote:endura_fence",
+        "count": 3
+    }
+}

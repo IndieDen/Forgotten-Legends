@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "lote:stripped_sakura_wood"
+        }
+    ],
+    "result": {
+        "item": "lote:sakura_planks",
+        "count": 4
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S#S",
+    "S#S"
+  ],
+  "key": {
+    "#": {
+      "item": "lote:void_planks"
+    },
+    "S": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+    "result": {
+        "item": "lote:void_gate",
+        "count": 1
+    }
+}
