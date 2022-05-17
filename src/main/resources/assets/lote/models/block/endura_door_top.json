@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "lote:blocks/endura_door_top",
+    "bottom": "lote:blocks/endura_door_bottom"
+  }
+}

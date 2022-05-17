@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "lote:blocks/sakura_log_top",
+    "side": "lote:blocks/sakura_log"
+  }
+}

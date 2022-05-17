@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "lote:blocks/sakura_leaves"
+	}
+}

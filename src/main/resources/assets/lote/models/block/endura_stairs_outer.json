@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "lote:blocks/endura_planks",
+    "top": "lote:blocks/endura_planks",
+    "side": "lote:blocks/endura_planks"
+  }
+}

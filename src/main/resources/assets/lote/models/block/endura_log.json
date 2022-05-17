@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "lote:blocks/endura_log_top",
+    "side": "lote:blocks/endura_log"
+  }
+}

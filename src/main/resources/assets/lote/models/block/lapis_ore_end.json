@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lote:blocks/lapis_ore_end",
+    "particle": "lote:blocks/lapis_ore_end"
+  }
+}

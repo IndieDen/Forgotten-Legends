@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_rh",
+  "textures": {
+    "top": "lote:blocks/maple_door_top",
+    "bottom": "lote:blocks/maple_door_bottom"
+  }
+}

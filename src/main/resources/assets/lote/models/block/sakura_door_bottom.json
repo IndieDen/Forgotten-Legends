@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "lote:blocks/sakura_door_top",
+    "bottom": "lote:blocks/sakura_door_bottom"
+  }
+}
