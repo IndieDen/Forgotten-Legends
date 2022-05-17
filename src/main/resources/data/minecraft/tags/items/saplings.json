@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lote:sakura_sapling",
+    "lote:maple_sapling",
+    "lote:endura_sapling",
+    "lote:void_sapling"
+  ]
+}

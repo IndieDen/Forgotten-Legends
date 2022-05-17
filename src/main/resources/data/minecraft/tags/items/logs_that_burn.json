@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+	"lote:sakura_log",
+	"lote:sakura_wood",
+	"lote:stripped_sakura_log",
+	"lote:stripped_sakura_wood",
+	"lote:maple_log",
+	"lote:maple_wood",
+	"lote:stripped_maple_log",
+	"lote:stripped_maple_wood",
+	"lote:endura_log",
+	"lote:endura_wood",
+	"lote:stripped_endura_log",
+	"lote:stripped_endura_wood",
+	"lote:void_log",
+	"lote:void_wood",
+	"lote:stripped_void_log",
+	"lote:stripped_void_wood"
+	]
+}
