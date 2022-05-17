@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "group": "endorium_ingot",
+  "ingredient": {
+    "item": "lote:endorium_ore"
+  },
+  "result": "lote:endorium_ingot",
+  "experience": 1.0,
+  "cookingtime": 200
+}
