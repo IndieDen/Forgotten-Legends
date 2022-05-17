@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "lote:end_wilds_nylium",
+    "lote:void_nylium",
+    "lote:coal_ore_end",
+    "lote:iron_ore_end",
+    "lote:lapis_ore_end",
+    "lote:copper_ore_end",
+    "lote:golden_ore_end",
+    "lote:redstone_ore_end",
+    "lote:diamond_ore_end",
+    "lote:emerald_ore_end",
+    "lote:endorium_ore",
+    "lote:endorium_block",
+    "lote:raw_endorium_block",
+    "lote:end_lantern"
+  ]
+}
