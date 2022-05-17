@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lote:sakura_fence",
+    "lote:maple_fence",
+    "lote:endura_fence",
+    "lote:void_fence"
+  ]
+}
