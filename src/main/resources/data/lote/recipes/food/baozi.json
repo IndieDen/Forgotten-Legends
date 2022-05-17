@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RMR",
+        "RMR",
+        "RRR"
+    ],
+    "key": {
+        "M": {
+            "tag": "lote:meats"
+        },
+        "R": {
+            "item": "lote:riceflour"
+        }
+    },
+    "result": {
+        "item": "lote:baozi",
+        "count": 1
+    }
+}
