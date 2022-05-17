@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "lote:block/endura_plate" },
+    "powered=true": { "model": "lote:block/endura_plate_down" }
+  }
+}

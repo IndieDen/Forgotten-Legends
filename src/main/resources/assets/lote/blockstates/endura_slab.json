@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lote:block/endura_slab"
+    },
+    "type=double": {
+      "model": "lote:block/endura_planks"
+    },
+    "type=top": {
+      "model": "lote:block/endura_slab_top"
+    }
+  }
+}

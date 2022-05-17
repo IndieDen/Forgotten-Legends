@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lote:block/void_slab"
+    },
+    "type=double": {
+      "model": "lote:block/void_planks"
+    },
+    "type=top": {
+      "model": "lote:block/void_slab_top"
+    }
+  }
+}

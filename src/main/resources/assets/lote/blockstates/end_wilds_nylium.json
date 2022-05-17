@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "lote:block/end_wilds_nylium"
+      },
+      {
+        "model": "lote:block/end_wilds_nylium",
+        "y": 90
+      },
+      {
+        "model": "lote:block/end_wilds_nylium",
+        "y": 180
+      },
+      {
+        "model": "lote:block/end_wilds_nylium",
+        "y": 270
+      }
+    ]
+  }
+}

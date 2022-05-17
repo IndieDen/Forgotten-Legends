@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "lote:block/sakura_plate" },
+    "powered=true": { "model": "lote:block/sakura_plate_down" }
+  }
+}

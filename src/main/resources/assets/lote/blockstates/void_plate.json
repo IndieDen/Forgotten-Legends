@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "lote:block/void_plate" },
+    "powered=true": { "model": "lote:block/void_plate_down" }
+  }
+}

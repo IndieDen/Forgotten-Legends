@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "lote:block/end_lantern"
+    },
+    "hanging=true": {
+      "model": "lote:block/end_lantern_hanging"
+    }
+  }
+}
