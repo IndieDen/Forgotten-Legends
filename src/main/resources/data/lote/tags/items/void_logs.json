@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+	"lote:void_log",
+	"lote:void_wood",
+	"lote:stripped_void_log",
+	"lote:stripped_void_wood"
+	]
+}

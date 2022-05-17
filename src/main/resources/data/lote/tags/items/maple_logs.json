@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+	"lote:maple_log",
+	"lote:maple_wood",
+	"lote:stripped_maple_log",
+	"lote:stripped_maple_wood"
+	]
+}
