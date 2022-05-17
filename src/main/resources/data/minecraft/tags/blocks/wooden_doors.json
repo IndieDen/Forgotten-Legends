@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+	"lote:sakura_door",
+	"lote:maple_door",
+	"lote:endura_door",
+	"lote:void_door"
+	]
+}

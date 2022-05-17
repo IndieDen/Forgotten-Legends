@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "lote:golden_ore_end",
+    "lote:redstone_ore_end",
+    "lote:diamond_ore_end",
+    "lote:emerald_ore_end"
+  ]
+}

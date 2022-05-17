@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "lote:iron_ore_end",
+    "lote:lapis_ore_end",
+    "lote:copper_ore_end"
+  ]
+}
