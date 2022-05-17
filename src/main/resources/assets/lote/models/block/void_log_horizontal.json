@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "lote:blocks/void_log_top",
+    "side": "lote:blocks/void_log"
+  }
+}
