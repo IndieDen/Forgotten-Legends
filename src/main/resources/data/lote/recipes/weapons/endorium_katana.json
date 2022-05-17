@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "lote:diamond_katana"
+  },
+  "addition": {
+    "item": "lote:endorium_ingot"
+  },
+  "result": {
+    "item": "lote:endorium_katana"
+  }
+}

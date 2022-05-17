@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "addition": {
+    "item": "lote:endorium_ingot"
+  },
+  "result": {
+    "item": "lote:endorium_pickaxe"
+  }
+}
